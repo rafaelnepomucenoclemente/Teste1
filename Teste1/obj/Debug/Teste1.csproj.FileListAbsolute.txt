@@ -1,0 +1,10 @@
+C:\Users\Rafael\Desktop\Estudo\Testes\Teste1\Teste1\obj\Debug\Teste1.csproj.AssemblyReference.cache
+C:\Users\Rafael\Desktop\Estudo\Testes\Teste1\Teste1\obj\Debug\Teste1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rafael\Desktop\Estudo\Testes\Teste1\Teste1\obj\Debug\Teste1.Properties.Resources.resources
+C:\Users\Rafael\Desktop\Estudo\Testes\Teste1\Teste1\obj\Debug\Teste1.csproj.GenerateResource.cache
+C:\Users\Rafael\Desktop\Estudo\Testes\Teste1\Teste1\obj\Debug\Teste1.csproj.CoreCompileInputs.cache
+C:\Users\Rafael\Desktop\Estudo\Testes\Teste1\Teste1\bin\Debug\Teste1.exe.config
+C:\Users\Rafael\Desktop\Estudo\Testes\Teste1\Teste1\bin\Debug\Teste1.exe
+C:\Users\Rafael\Desktop\Estudo\Testes\Teste1\Teste1\bin\Debug\Teste1.pdb
+C:\Users\Rafael\Desktop\Estudo\Testes\Teste1\Teste1\obj\Debug\Teste1.exe
+C:\Users\Rafael\Desktop\Estudo\Testes\Teste1\Teste1\obj\Debug\Teste1.pdb
