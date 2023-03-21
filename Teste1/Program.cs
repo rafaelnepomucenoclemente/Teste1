@@ -6,7 +6,7 @@ using System.Windows.Forms;
 
 namespace Teste1
 {
-    internal static class Program
+    static class Program
     {
         /// <summary>
         /// Ponto de entrada principal para o aplicativo.
